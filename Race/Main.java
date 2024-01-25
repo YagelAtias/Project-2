@@ -1,6 +1,8 @@
 package Race;
+
 /**
  * @authors Yagel Atias 208905448, Slava Ignatiev 322015280
+ * @gitHubLink https://github.com/YagelAtias/Project-2
  */
 
 public class Main {
